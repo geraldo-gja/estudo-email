@@ -12,6 +12,10 @@ Referencia:
  - Maven 3.6
  - Java 11
  - Conta de email no [Gmail](https://mail.google.com)
+ - autorizar conta Google. ver nas minhas anotações.
+   
+  Diretório: C:\Users\PESSOAL\Dropbox\Arquivos\Arquivos txt\TXTs\Cursos e Dicas\Computação\Info - área de TI\Estudo\4 - BACK\Java\Frameworks\Java Mail\Tutoriais\Google - autorizar app menos seguro
+
 
 ## Criando o jar
 
