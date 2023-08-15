@@ -2,17 +2,16 @@
 
 
  Projeto simples com Java e Spring Boot para enviar email utilizando contas do Gmail.
- 
- Vídeo: https://youtu.be/so3nq5NapHA
- 
+
+Referencia:
+- Vídeo https://youtu.be/so3nq5NapHA
+- Código no GitHub [Feltex](https://github.com/feltex/ServicoEmailSimples)
 
 ## Pré Requisitos
 
  - Maven 3.6
  - Java 11
  - Conta de email no [Gmail](https://mail.google.com)
- - Código no GitHub [Feltex](https://github.com/feltex/ServicoEmailSimples)
-
 
 ## Criando o jar
 
@@ -23,7 +22,7 @@
 - Utilizando o arquivo jar
 
 ```
-    export SPRING_EMAIL_USERNAME=usuario1.feltex@gmail.com
+    export SPRING_EMAIL_USERNAME=geraldo.gja2@gmail.com
     export SPRING_EMAIL_PASSWORD=********************
 
     java -jar target/ServicoEmail.jar 
@@ -32,7 +31,7 @@
 - Utilizando o maven
 
 ```
-    export SPRING_EMAIL_USERNAME=usuario1.feltex@gmail.com
+    export SPRING_EMAIL_USERNAME=geraldo.gja2@gmail.com
     export SPRING_EMAIL_PASSWORD=********************
     
     mvn spring-boot:run
